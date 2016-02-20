@@ -30,3 +30,4 @@
   * [Chapter 6: Behavior Delegation](this & object protoyptes/ch6.md)
   * [Appendix A: ES6 *class*](this & object protoyptes/apA.md)
   * [Appendix B: Thank You's!](this & object protoyptes/apB.md)
+* [Types and Grammar](types & grammar/README.md)
