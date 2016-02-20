@@ -1,4 +1,4 @@
 # Summary
 
-* Scope and Closures
+* [Scope and Closures](scope_and_closures.md)
 
