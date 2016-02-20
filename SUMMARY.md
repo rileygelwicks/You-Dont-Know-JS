@@ -1,6 +1,6 @@
 # Summary
 
-* [Preface](up & going/preface.md)
+* [Preface](preface.md)
 
 * [Up & Going](up & going/README.md)
   * [Foreword](up & going/foreword.md) (by [Jenn Lukas](http://jennlukas.com)
