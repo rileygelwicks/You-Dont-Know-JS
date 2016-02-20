@@ -20,7 +20,7 @@
   * [Appendix C: Lexical-this](scope & closures/apC.md)
   * [Appendix D: Thank You's!](scope & closures/apD.md)
 * [this & object Prototypes](this & object prototypes/README.md)
-  * [Foreword](foreword.md) (by [Nick Berardi](https://github.com/nberardi))
+  * [Foreword](this & object prototypes/foreword.md) (by [Nick Berardi](https://github.com/nberardi))
   * [Chapter 1: *this* Or That?](this & object prototypes/ch1.md)
   * [Chapter 2: *this* All Makes Sense Now!](this & object prototypes/ch2.md)
   * [Chapter 3: Objects](this & object prototypes/ch3.md)
