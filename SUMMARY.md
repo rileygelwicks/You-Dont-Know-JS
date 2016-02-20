@@ -49,3 +49,5 @@
   * [Appendix A: Library: asynquence](async & performance/apA.md)
   * [Appendix B: Advanced Async Patterns](async & performance/apB.md)
   * [Appendix C: Thank You's!](async & performance/apC.md)
+* [es6 & beyond](es6 & beyond/README.md)
+* 
