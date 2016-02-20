@@ -8,7 +8,7 @@
   * [Chapter 2: Into JavaScript](up & going/ch2.md)
   * [Chapter 3: Into YDKJS](up & going/ch3.md)
   * [Appendix A: Thank You's!](up & going/apA.md)
-* [Scope and Closures](scope & closures/README.MD)
+* [Scope and Closures](scope & closures/README.md)
   * [Foreword](https://shanehudson.net/2014/06/03/foreword-dont-know-js/) (by [Shane Hudson](https://github.com/shanehudson))
   * [Chapter 1: What is Scope?](scope & closures/ch1.md)
   * [Chapter 2: Lexical Scope](scope & closures/ch2.md)
