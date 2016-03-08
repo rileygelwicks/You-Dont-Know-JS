@@ -13,7 +13,7 @@
   * [Foreword](types & grammar/foreword.md) (by [David Walsh](http://davidwalsh.name))
   * [Chapter 1: Types](types & grammar/ch1.md)
   * [Chapter 2: Values](types & grammar/ch2.md)
-  * [Chapter 3: Natives](types & grammar/ch3.md)
+  * [Chapter 3: Natives](ch3.md)
   * [Chapter 4: Coercion](types & grammar/ch4.md)
   * [Chapter 5: Grammar](types & grammar/ch5.md)
   * [Appendix A: Mixed Environment JavaScript](types & grammar/apA.md)
